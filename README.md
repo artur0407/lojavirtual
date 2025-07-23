@@ -1,1 +1,1 @@
-# lojavirtual
+Texto alterado repo local
